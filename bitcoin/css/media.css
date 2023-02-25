@@ -1,0 +1,1308 @@
+
+/*extra lagre*/
+@media(max-width:1199px){
+    .navbar-brand {
+    display: inline-block;
+    padding-top: 1.2rem;
+    margin-right: 1rem;
+    font-size: 1.25rem;
+    line-height: inherit;
+    white-space: nowrap;
+}
+.hg h1 {
+    font-size: 40px;
+}
+.respons img{
+    min-height:40vh;
+    width:50%;
+    transform: translateY(66%);
+    padding-bottom: 0%;
+    margin: auto;
+}
+ h4 {
+    font-size: 1.2rem;
+}
+.icoc img {
+    margin-top: 18%;
+    margin-right: 100%;
+    width: 18%;
+}
+.connection ul li {
+    font-size: 10px;
+}
+.template h1 {
+    color: #fff;
+    font-size: 28px;
+}
+
+.see {
+    margin-top: 100%;
+    margin-right: 70%;
+}
+.sec h3 {
+    margin-top: 35px;
+    margin-left: 5px;
+    font-size: 18px;
+    margin-right: 5px;
+}
+.boxs {
+    overflow: hidden;
+    transform: translateX(1%);
+}
+
+}
+/*lagre*/
+@media(max-width:991px){
+    .navbar-toggler-icon {
+    display: inline-block;
+    width: 1em;
+    height: .9em;
+    vertical-align: middle;
+    content: "";
+    background: no-repeat center center;
+    background-size: 100% 100%;
+}
+.btn {
+    margin-top: 20px;
+    transition: translateX(10%);
+    margin-right: 15%;
+}
+.view a {
+    border-radius: 35px;
+    color: black;
+    background: transparent;
+    border: 1px solid black;
+    width: 100%;
+}
+h1 {
+    color: #fff;
+    font-size: 45px;
+    font-weight: 400;
+    /* margin-bottom: 60px; */
+    position: relative;
+    margin-top: 90px;
+}
+.template{
+    background-size: cover;
+}
+.hg h1 {
+    font-size: 34px;
+}
+.singles-box {
+    color: white;
+    text-align: center;
+    padding: 10px 2px;
+    margin-left: 8%;
+}
+.template h1 {
+    color: #fff;
+    font-size: 20px;
+}
+.respons img {
+    min-height: 50vh;
+    width: 55%;
+    transform: translateY(116.5%);
+    padding-bottom: 0%;
+    margin: auto;
+}
+img {
+    width: 50px;
+    margin-top: 20px;
+}
+span {
+    margin-bottom: 10px;
+    font-size: 28px;
+    font-weight: bold;
+}
+h4 {
+    font-size: .94rem;
+}
+.trans {
+    background-color: orange;
+    height: 20vh;
+    padding-top: 20px;
+}
+.ico img {
+    margin-left: 120%;
+    margin-top: 20%;
+    width: 18%;
+}
+.ico1{
+    margin-left: 120%;
+    margin-top: 1%;
+}
+.icoc img {
+    margin-top: 18%;
+    margin-left: -15%;
+    width: 18%;
+}
+.icoc1 {
+    margin-top: 1%;
+    margin-left: -15%;
+    
+}
+.icoe img {
+    margin-left: -15%;
+    margin-top: 30%;
+    width: 18%;
+}
+.icoe1 {
+    margin-left: -15%;
+    margin-top: 1%;
+}
+.Contact .heading h1 {
+    color: #fff;
+    padding-bottom: 30px;
+    padding-top: 30px;
+    font-size: 35px;
+}
+.see {
+    margin-top: 130%;
+    margin-right: 70%;
+}
+}
+/*medium*/
+@media(max-width:767px){
+    .navbar-toggler-icon {
+    display: inline-block;
+    width: 1em;
+    height: .9em;
+    vertical-align: middle;
+    content: "";
+    background: no-repeat center center;
+    background-size: 100% 100%;
+}
+.btn {
+    margin-top: 20px;
+    margin-right: 1%;
+}
+.image:hover{
+    color:white ;
+    background-image: url(../images/bitu.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.image2:hover{
+    color:white ;
+    background-image: url(../images/bitu.png);
+    background-position: center;
+    background-repeat: no-repeat;
+}
+.view a {
+    border-radius: 35px;
+    color: black;
+    background: transparent;
+    border: 1px solid black;
+    width: 100%;
+}
+h1 {
+    color: #fff;
+    font-size: 45px;
+    font-weight: 400;
+    /* margin-bottom: 60px; */
+    position: relative;
+    margin-top: 90px;
+}
+.template{
+    background-size: cover;
+}
+.hg h1 {
+    font-size: 34px;
+}
+.singles-box {
+    color: white;
+    text-align: center;
+    padding: 10px 2px;
+    margin-left: 12%;
+}
+.template h1 {
+    color: #fff;
+    font-size: 32px;
+}
+.respons img {
+    min-height: 50vh;
+    width: 55%;
+    transform: translateY(.1%);
+    padding-bottom: 0%;
+    margin: auto;
+}
+.type ul li {
+    display: inline-block;
+    font-size: 18px;
+    color: #fff;
+    padding-right: 30px;
+}
+img {
+    width: 50px;
+    margin-top: 20px;
+}
+span {
+    margin-bottom: 10px;
+    font-size: 28px;
+    font-weight: bold;
+}
+h4 {
+    font-size: .94rem;
+}
+.md{
+    width: 24%;
+}
+.trans {
+    background-color: orange;
+    height: 20vh;
+    padding-top: 20px;
+}
+.ico img {
+    margin-left: 100%;
+    margin-top: 7%;
+    width: 28%;
+}
+.ico1{
+    margin-left: 100%;
+    margin-top: 1%;
+}
+.icoa img {
+    margin-left: 45%;
+    margin-top: 2%;
+    width: 35%;
+}
+.icoa1{
+    margin-left: 45%;
+    margin-top: 1%;
+}
+.icob img {
+    margin-left: 100%;
+    margin-top: 4%;
+    width: 35%;
+}
+.icob1{
+    margin-left: 100%;
+    margin-top: 1%;
+}
+.abcd img {
+    width: 60%;
+    /* height: 60%; */
+    position: center;
+    margin-top: 9%;
+    background-repeat: no-repeat;
+    overflow: hidden;
+}
+.icoc img {
+    margin-right: 100%;
+    margin-top: 7%;
+    width: 30%;
+}
+.icoc1{
+    margin-right: 100%;
+    margin-top: 1%;
+}
+.icod img {
+    margin-right: 15%;
+    margin-top: 2%;
+    width: 35%;
+}
+.icod1{
+    margin-right: 15%;
+    margin-top: 1%;
+}
+.icoe img {
+    margin-right: 30%;
+    margin-top: 4%;
+    width: 30%;
+}
+.icoe1{
+    margin-right: 30%;
+    margin-top: 1%;
+}
+.temp {
+    margin-top: 90px;
+}
+.feature h1 {
+    color: #6e6e6e;
+    font-size: 23px;
+    font-weight: bold;
+}
+.man img {
+    height: 80%;
+    width: 50%;
+    padding-bottom: 20px;
+}
+.form-control {
+    display: block;
+    width: 80%;
+    height: calc(1.5em + .75rem + 2px);
+    padding: .375rem .75rem;
+    font-size: 1rem;
+    font-weight: 400;
+    line-height: 1.5;
+    background-color: transparent;
+    background-clip: padding-box;
+    border: 1px solid #f9f9f9;
+    border-radius: .25rem;
+    transition: border-color .15s ease-in-out,box-shadow .15s ease-in-out;
+    color: black;
+    margin: auto;
+    margin-top: 15px;
+}
+.thecard {
+    position: absolute;
+    width: 60%;
+    height: 100%;
+    transform-style: preserve-3d;
+    transition: all 0.5s ease-in-out;
+    background-image: url(../images/itm1.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    transition: translateX(10%);
+    margin-left: 20%;
+}
+.thecard-1 {
+    position: absolute;
+    width: 60%;
+    height: 100%;
+    transform-style: preserve-3d;
+    transition: all 0.5s ease-in-out;
+    background-image: url(../images/itm2.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    transition: translateX(10%);
+    margin-left: 20%;
+}
+.thecard-2 {
+    position: absolute;
+    width: 60%;
+    height: 100%;
+    transform-style: preserve-3d;
+    transition: all 0.5s ease-in-out;
+    background-image: url(../images/itm3.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    transition: translateX(10%);
+    margin-left: 20%;
+}
+.sec {
+    border: 1px solid #c5c5c5;
+    height: 30%;
+    width: 60%;
+    margin: auto;
+}
+.see img {
+    width: 50px;
+    margin-top: -190%;
+}
+.Contact .heading h1 {
+    color: #fff;
+    padding-bottom: 30px;
+    padding-top: 30px;
+    font-size: 35px;
+}
+.see {
+    margin-top: 130%;
+    margin-right: 70%;
+}
+/*end import*/
+/*small*/
+@media(max-width:575px){
+	.navbar-toggler-icon {
+    display: inline-block;
+    width: 1em;
+    height: .9em;
+    vertical-align: middle;
+    content: "";
+    background: no-repeat center center;
+    background-size: 100% 100%;
+}
+.btn {
+    margin-top: 20px;
+    margin-right: 1%;
+}
+.image {
+    position: relative;
+    text-align: center;
+    border: 1px solid #e1e1e1;
+    padding: 20px 10px;
+    height: 100%;
+    margin-top: 20px;
+}
+.image:hover{
+    color:white ;
+    background-image: url(../images/bitu.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.image2:hover{
+    color:white ;
+    background-image: url(../images/bitu.png);
+    background-position: center;
+    background-repeat: no-repeat;
+}
+.view a {
+    border-radius: 35px;
+    color: black;
+    background: transparent;
+    border: 1px solid black;
+    width: 100%;
+}
+h1 {
+    color: #fff;
+    font-size: 45px;
+    font-weight: 400;
+    /* margin-bottom: 60px; */
+    position: relative;
+    margin-top: 90px;
+}
+.template{
+    background-size: cover;
+}
+.hg h1 {
+    font-size: 34px;
+}
+.singles-box {
+    color: white;
+    text-align: center;
+    padding: 10px 2px;
+    margin-left: 12%;
+}
+.template h1 {
+    color: #fff;
+    font-size: 32px;
+}
+.respons img {
+    min-height: 45vh;
+    width: 35%;
+    transform: translateY(.1%);
+    padding-bottom: 0%;
+    margin: auto;
+}
+.type ul li {
+    display: inline-block;
+    font-size: 18px;
+    color: #fff;
+    padding-right: 30px;
+}
+img {
+    width: 50px;
+    margin-top: 20px;
+}
+span {
+    margin-bottom: 10px;
+    font-size: 28px;
+    font-weight: bold;
+}
+h4 {
+    font-size: .94rem;
+}
+.md{
+    width: 24%;
+}
+.trans {
+    background-color: orange;
+    height: 20vh;
+    padding-top: 20px;
+}
+.ico img {
+    margin-left: 100%;
+    margin-top: 7%;
+    width: 28%;
+}
+.ico1{
+    margin-left: 100%;
+    margin-top: 1%;
+}
+.icoa img {
+    margin-left: 45%;
+    margin-top: 2%;
+    width: 35%;
+}
+.icoa1{
+    margin-left: 45%;
+    margin-top: 1%;
+}
+.icob img {
+    margin-left: 100%;
+    margin-top: 4%;
+    width: 35%;
+}
+.icob1{
+    margin-left: 100%;
+    margin-top: 1%;
+}
+.abcd img {
+    width: 60%;
+    /* height: 60%; */
+    position: center;
+    margin-top: 9%;
+    background-repeat: no-repeat;
+    overflow: hidden;
+}
+.icoc img {
+    margin-right: 100%;
+    margin-top: 7%;
+    width: 30%;
+}
+.icoc1{
+    margin-right: 100%;
+    margin-top: 1%;
+}
+.icod img {
+    margin-right: 15%;
+    margin-top: 2%;
+    width: 35%;
+}
+.icod1{
+    margin-right: 15%;
+    margin-top: 1%;
+}
+.icoe img {
+    margin-right: 30%;
+    margin-top: 4%;
+    width: 30%;
+}
+.icoe1{
+    margin-right: 30%;
+    margin-top: 1%;
+}
+.temp {
+    margin-top: 90px;
+}
+.feature h1 {
+    color: #6e6e6e;
+    font-size: 23px;
+    font-weight: bold;
+}
+.man img {
+    height: 80%;
+    width: 50%;
+    padding-bottom: 20px;
+}
+.form-control {
+    display: block;
+    width: 80%;
+    height: calc(1.5em + .75rem + 2px);
+    padding: .375rem .75rem;
+    font-size: 1rem;
+    font-weight: 400;
+    line-height: 1.5;
+    background-color: transparent;
+    background-clip: padding-box;
+    border: 1px solid #f9f9f9;
+    border-radius: .25rem;
+    transition: border-color .15s ease-in-out,box-shadow .15s ease-in-out;
+    color: black;
+    margin: auto;
+    margin-top: 15px;
+}
+.thecard {
+    position: absolute;
+    width: 60%;
+    height: 100%;
+    transform-style: preserve-3d;
+    transition: all 0.5s ease-in-out;
+    background-image: url(../images/itm1.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    transition: translateX(10%);
+    margin-left: 20%;
+}
+.thecard-1 {
+    position: absolute;
+    width: 60%;
+    height: 100%;
+    transform-style: preserve-3d;
+    transition: all 0.5s ease-in-out;
+    background-image: url(../images/itm2.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    transition: translateX(10%);
+    margin-left: 20%;
+}
+.thecard-2 {
+    position: absolute;
+    width: 60%;
+    height: 100%;
+    transform-style: preserve-3d;
+    transition: all 0.5s ease-in-out;
+    background-image: url(../images/itm3.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    transition: translateX(10%);
+    margin-left: 20%;
+}
+.sec {
+    border: 1px solid #c5c5c5;
+    height: 30%;
+    width: 60%;
+    margin: auto;
+}
+.see img {
+    width: 50px;
+    margin-top: -220%;
+}
+.Contact .heading h1 {
+    color: #fff;
+    padding-bottom: 30px;
+    padding-top: 30px;
+    font-size: 35px;
+}
+.see {
+    margin-top: 130%;
+    margin-right: 70%;
+}
+
+}
+@media screen and (max-width:515px){
+.template h1 {
+    color: #fff;
+    font-size: 30px;
+}
+.sec {
+    border: 1px solid #c5c5c5;
+    height: 32%;
+    width: 60%;
+    margin: auto;
+}
+.see img {
+    width: 50px;
+    margin-top: -170%;
+}
+
+}
+
+    }
+@media screen and (max-width:480px){
+.navbar-toggler-icon {
+    display: inline-block;
+    width: 1em;
+    height: .9em;
+    vertical-align: middle;
+    content: "";
+    background: no-repeat center center;
+    background-size: 100% 100%;
+}
+.btn {
+    margin-top: 20px;
+    margin-right: 1%;
+}
+.image {
+    position: relative;
+    text-align: center;
+    border: 1px solid #e1e1e1;
+    padding: 20px 10px;
+    height: 100%;
+    margin-top: 20px;
+}
+.image:hover{
+    color:white ;
+    background-image: url(../images/bitu.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.image2:hover{
+    color:white ;
+    background-image: url(../images/bitu.png);
+    background-position: center;
+    background-repeat: no-repeat;
+}
+.view a {
+    border-radius: 35px;
+    color: black;
+    background: transparent;
+    border: 1px solid black;
+    width: 100%;
+}
+h1 {
+    color: #fff;
+    font-size: 45px;
+    font-weight: 400;
+    /* margin-bottom: 60px; */
+    position: relative;
+    margin-top: 90px;
+}
+.template{
+    background-size: cover;
+}
+.hg h1 {
+    font-size: 30px;
+}
+.singles-box {
+    color: white;
+    text-align: center;
+    padding: 10px 2px;
+    margin-left: 12%;
+}
+.template h1 {
+    color: #fff;
+    font-size: 25px;
+}
+.respons img {
+    min-height: 45vh;
+    width: 40%;
+    transform: translateY(.1%);
+    padding-bottom: 0%;
+    margin: auto;
+}
+.type ul li {
+    display: inline-block;
+    font-size: 18px;
+    color: #fff;
+    padding-right: 30px;
+}
+img {
+    width: 50px;
+    margin-top: 20px;
+}
+span {
+    margin-bottom: 10px;
+    font-size: 28px;
+    font-weight: bold;
+}
+h4 {
+    font-size: .94rem;
+}
+.md{
+    width: 24%;
+}
+.trans {
+    background-color: orange;
+    height: 20vh;
+    padding-top: 20px;
+}
+.ico img {
+    margin-left: 100%;
+    margin-top: 7%;
+    width: 28%;
+}
+.ico1{
+    margin-left: 100%;
+    margin-top: 1%;
+}
+.icoa img {
+    margin-left: 45%;
+    margin-top: 2%;
+    width: 35%;
+}
+.icoa1{
+    margin-left: 45%;
+    margin-top: 1%;
+}
+.icob img {
+    margin-left: 100%;
+    margin-top: 4%;
+    width: 35%;
+}
+.icob1{
+    margin-left: 100%;
+    margin-top: 1%;
+}
+.abcd img {
+    width: 60%;
+    /* height: 60%; */
+    position: center;
+    margin-top: 9%;
+    background-repeat: no-repeat;
+    overflow: hidden;
+}
+.icoc img {
+    margin-right: 100%;
+    margin-top: 7%;
+    width: 30%;
+}
+.icoc1{
+    margin-right: 100%;
+    margin-top: 1%;
+}
+.icod img {
+    margin-right: 15%;
+    margin-top: 2%;
+    width: 35%;
+}
+.icod1{
+    margin-right: 15%;
+    margin-top: 1%;
+}
+.icoe img {
+    margin-right: 30%;
+    margin-top: 4%;
+    width: 30%;
+}
+.icoe1{
+    margin-right: 30%;
+    margin-top: 1%;
+}
+.temp {
+    margin-top: 90px;
+}
+.feature h1 {
+    color: #6e6e6e;
+    font-size: 23px;
+    font-weight: bold;
+}
+.man img {
+    height: 80%;
+    width: 50%;
+    padding-bottom: 20px;
+}
+.form-control {
+    display: block;
+    width: 80%;
+    height: calc(1.5em + .75rem + 2px);
+    padding: .375rem .75rem;
+    font-size: 1rem;
+    font-weight: 400;
+    line-height: 1.5;
+    background-color: transparent;
+    background-clip: padding-box;
+    border: 1px solid #f9f9f9;
+    border-radius: .25rem;
+    transition: border-color .15s ease-in-out,box-shadow .15s ease-in-out;
+    color: black;
+    margin: auto;
+    margin-top: 15px;
+}
+.thecard {
+    position: absolute;
+    width: 60%;
+    height: 100%;
+    transform-style: preserve-3d;
+    transition: all 0.5s ease-in-out;
+    background-image: url(../images/itm1.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    transition: translateX(10%);
+    margin-left: 20%;
+}
+.thecard-1 {
+    position: absolute;
+    width: 60%;
+    height: 100%;
+    transform-style: preserve-3d;
+    transition: all 0.5s ease-in-out;
+    background-image: url(../images/itm2.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    transition: translateX(10%);
+    margin-left: 20%;
+}
+.thecard-2 {
+    position: absolute;
+    width: 60%;
+    height: 100%;
+    transform-style: preserve-3d;
+    transition: all 0.5s ease-in-out;
+    background-image: url(../images/itm3.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    transition: translateX(10%);
+    margin-left: 20%;
+}
+.sec {
+    border: 1px solid #c5c5c5;
+    height: 36%;
+    width: 60%;
+    margin: auto;
+}
+.see img {
+    width: 50px;
+    margin-top: -90%;
+}
+.Contact .heading h1 {
+    color: #fff;
+    padding-bottom: 30px;
+    padding-top: 30px;
+    font-size: 30px;
+}
+.see {
+    margin-top: 130%;
+    margin-right: 70%;
+}
+
+        }
+ @media screen and (max-width:428px){
+    .template h1 {
+    color: #fff;
+    font-size: 24px;
+}
+.see img {
+    width: 50px;
+    margin-top: -10%;
+}
+
+                }
+@media screen and (max-width:416px){
+.navbar-toggler-icon {
+    display: inline-block;
+    width: 1em;
+    height: .9em;
+    vertical-align: middle;
+    content: "";
+    background: no-repeat center center;
+    background-size: 100% 100%;
+}
+.btn {
+    margin-top: 20px;
+    margin-right: 1%;
+}
+.image {
+    position: relative;
+    text-align: center;
+    border: 1px solid #e1e1e1;
+    padding: 20px 10px;
+    height: 100%;
+    margin-top: 20px;
+}
+.image:hover{
+    color:white ;
+    background-image: url(../images/bitu.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.image2:hover{
+    color:white ;
+    background-image: url(../images/bitu.png);
+    background-position: center;
+    background-repeat: no-repeat;
+}
+.view a {
+    border-radius: 35px;
+    color: black;
+    background: transparent;
+    border: 1px solid black;
+    width: 100%;
+}
+h1 {
+    color: #fff;
+    font-size: 45px;
+    font-weight: 400;
+    /* margin-bottom: 60px; */
+    position: relative;
+    margin-top: 90px;
+}
+.template{
+    background-size: cover;
+}
+.hg h1 {
+    font-size: 28px;
+}
+.singles-box {
+    color: white;
+    text-align: center;
+    padding: 3px 2px;
+    margin-left: 6%;
+}
+.template h1 {
+    color: #fff;
+    font-size: 21px;
+}
+.respons img {
+    min-height: 45vh;
+    width: 40%;
+    transform: translateY(.1%);
+    padding-bottom: 0%;
+    margin: auto;
+}
+.type ul li {
+    display: inline-block;
+    font-size: 18px;
+    color: #fff;
+    padding-right: 30px;
+}
+img {
+    width: 50px;
+    margin-top: 20px;
+}
+span {
+    margin-bottom: 10px;
+    font-size: 28px;
+    font-weight: bold;
+}
+h4 {
+    font-size: .94rem;
+}
+.md{
+    width: 24%;
+}
+.trans {
+    background-color: orange;
+    height: 20vh;
+    padding-top: 20px;
+}
+.ico img {
+    margin-left: 100%;
+    margin-top: 7%;
+    width: 28%;
+}
+.ico1{
+    margin-left: 100%;
+    margin-top: 1%;
+}
+.icoa img {
+    margin-left: 45%;
+    margin-top: 2%;
+    width: 35%;
+}
+.icoa1{
+    margin-left: 45%;
+    margin-top: 1%;
+}
+.icob img {
+    margin-left: 100%;
+    margin-top: 4%;
+    width: 35%;
+}
+.icob1{
+    margin-left: 100%;
+    margin-top: 1%;
+}
+.abcd img {
+    width: 60%;
+    /* height: 60%; */
+    position: center;
+    margin-top: 17%;
+    background-repeat: no-repeat;
+    overflow: hidden;
+}
+.icoc img {
+    margin-right: 100%;
+    margin-top: 7%;
+    width: 30%;
+}
+.icoc1{
+    margin-right: 100%;
+    margin-top: 1%;
+}
+.icod img {
+    margin-right: 15%;
+    margin-top: 2%;
+    width: 35%;
+}
+.icod1{
+    margin-right: 15%;
+    margin-top: 1%;
+}
+.icoe img {
+    margin-right: 30%;
+    margin-top: 4%;
+    width: 30%;
+}
+.icoe1{
+    margin-right: 30%;
+    margin-top: 1%;
+}
+.temp {
+    margin-top: 90px;
+}
+.feature h1 {
+    color: #6e6e6e;
+    font-size: 23px;
+    font-weight: bold;
+}
+.man img {
+    height: 80%;
+    width: 50%;
+    padding-bottom: 20px;
+}
+.form-control {
+    display: block;
+    width: 80%;
+    height: calc(1.5em + .75rem + 2px);
+    padding: .375rem .75rem;
+    font-size: 1rem;
+    font-weight: 400;
+    line-height: 1.5;
+    background-color: transparent;
+    background-clip: padding-box;
+    border: 1px solid #f9f9f9;
+    border-radius: .25rem;
+    transition: border-color .15s ease-in-out,box-shadow .15s ease-in-out;
+    color: black;
+    margin: auto;
+    margin-top: 15px;
+}
+.thecard {
+    position: absolute;
+    width: 60%;
+    height: 100%;
+    transform-style: preserve-3d;
+    transition: all 0.5s ease-in-out;
+    background-image: url(../images/itm1.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    transition: translateX(10%);
+    margin-left: 20%;
+}
+.thecard-1 {
+    position: absolute;
+    width: 60%;
+    height: 100%;
+    transform-style: preserve-3d;
+    transition: all 0.5s ease-in-out;
+    background-image: url(../images/itm2.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    transition: translateX(10%);
+    margin-left: 20%;
+}
+.thecard-2 {
+    position: absolute;
+    width: 60%;
+    height: 100%;
+    transform-style: preserve-3d;
+    transition: all 0.5s ease-in-out;
+    background-image: url(../images/itm3.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    transition: translateX(10%);
+    margin-left: 20%;
+}
+.sec {
+    border: 1px solid #c5c5c5;
+    height: 36%;
+    width: 60%;
+    margin: auto;
+}
+.see img {
+    width: 50px;
+    margin-top: 0%;
+}
+.Contact .heading h1 {
+    color: #fff;
+    padding-bottom: 30px;
+    padding-top: 30px;
+    font-size: 30px;
+}
+.single-box {
+    color: white;
+    text-align: center;
+    float: left;
+    /* padding: 10px; */
+}
+.see {
+    margin-top: 130%;
+    margin-right: 70%;
+}
+
+        }
+
+@media screen and (max-width:390px){
+
+        .hg h1 {
+    font-size: 25px;
+}
+span {
+    margin-bottom: 10px;
+    font-size: 20px;
+    font-weight: bold;
+}
+h4 {
+    font-size: .74rem;
+}
+.Contact .heading h1 {
+    color: #fff;
+    padding-bottom: 30px;
+    padding-top: 30px;
+    font-size: 25px;
+}
+.see img {
+    width: 50px;
+    margin-top: 20%;
+}
+
+
+        }
+@media screen and (max-width:352px){
+.hg h1 {
+    font-size: 22px;
+}
+.respons img {
+    min-height: 40vh;
+    width: 40%;
+    transform: translateY(.1%);
+    padding-bottom: 0%;
+    margin: auto;
+}
+.template h1 {
+    color: #fff;
+    font-size: 20px;
+}
+.abcd img {
+    width: 60%;
+    /* height: 60%; */
+    position: center;
+    margin-top: 30%;
+    background-repeat: no-repeat;
+    overflow: hidden;
+}
+.sec {
+    border: 1px solid #c5c5c5;
+    height: 40%;
+    width: 60%;
+    margin: auto;
+}
+.see img {
+    width: 50px;
+    margin-top: 70%;
+}
+.feature h1 {
+    color: #6e6e6e;
+    font-size: 21px;
+    font-weight: bold;
+}
+}
+@media screen and (max-width:332px){
+.singles-box {
+    color: white;
+    text-align: center;
+    padding: 3px 2px;
+    margin-left: 5%;
+}
+.template h1 {
+    color: #fff;
+    font-size: 18px;
+}
+
+
+    }
+    @media screen and (max-width:352px){
+.singles-box {
+    color: white;
+    text-align: center;
+    padding: 3px 2px;
+    margin-left: 4%;
+}
+.respons img {
+    min-height: 35vh;
+    width: 40%;
+    transform: translateY(.1%);
+    padding-bottom: 0%;
+    margin: auto;
+}
+.template h1 {
+    color: #fff;
+    font-size: 17px;
+}
+.see img {
+    width: 50px;
+    margin-top: 130%;
+}
+
+
+
+
+
+}

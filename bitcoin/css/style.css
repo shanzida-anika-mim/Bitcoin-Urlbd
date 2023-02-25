@@ -1,0 +1,787 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    font-family: font-family 'Montserrat', sans-serif;
+}
+
+
+/*Extra css for Web*/
+/*header*/
+.navbar-brand h1{
+    color: #28377e;
+    font-size: 30px;
+    font-weight: bold;
+}
+.navbar-nav a{
+    color: #28377e;
+    font-size: 14px;
+    font-weight: 700;
+}
+.nav-item:hover {
+    color:#f49366;
+    font-weight: 700;
+}
+p img{
+    height: 40px;
+    width: 120px;
+    margin-top: 20px;
+}
+
+
+/*banner section css*/
+
+.banner{
+    background-image: url(../images/img1.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+
+.navbar-light .navbar-nav .nav-link {
+    color: black;
+    text-transform: uppercase;
+}
+.navbar-light .navbar-nav .nav-link:hover {
+    color: #ff9b1a;
+    }
+.btn-primary {
+    color: #fff;
+    background-color: #ff9b1a;
+    border-color: #ff9b1a;
+    text-transform: uppercase;
+
+}
+.btn-primary:hover{
+    background-color: tomato;
+    border-color: tomato;
+}
+.navbar-nav a {
+    color: white;
+    border-radius: 35px;
+}
+     .navbar-nav a:hover{
+    color: orange;
+}
+.hg{
+    min-height:80vh;
+    position: relative;
+}
+h1{
+    color:#fff;
+    font-size: 45px;
+    font-weight: 400;
+    margin-bottom: 60px;
+    position: relative;
+}
+
+button, select {
+    text-transform: none;
+    color: white;
+    background-color: #ff9b1a;
+    border-color: #ff9b1a;
+    padding: 7px 15px;
+    border-radius: 35px;
+
+    
+}
+button:hover, select{
+    color: white;
+
+    background: #ff9b1a;
+    box-shadow: 0 0 10px #ff9b1a, 0 0 40px #ff9b1a, 0 0 80px #ff9b1a;
+}
+.btn{
+    margin-top: 20px;
+}
+
+.boxs {
+    overflow: hidden;
+    transform: translateX(15%);
+    
+}
+
+.area{
+    margin: 20px auto;
+}
+.box{
+    overflow: hidden;
+    margin-right: 200px;
+}
+.singles-box {
+    color: white;
+    text-align: center;
+    float: left;
+    padding: 10px 40px;
+}
+
+.singles-box span{
+    font-weight: bold;
+    font-size: 30px;
+    display: block;
+}
+.singles-box h4{
+    font-size: 15px;
+}
+
+.single-box{
+    color: white;
+    text-align: center;
+    float: left;
+    padding: 10px;
+}
+.cont{
+    margin-top: 30px;
+}
+
+
+
+
+/*varification section css*/
+
+.what_we_do{
+    padding: 50px 0px;
+    
+}
+
+.what_we_do:hover span{
+    width: 60px;
+}
+
+
+.image{
+    position: relative;
+    text-align: center;
+    border: 1px solid #e1e1e1;
+    padding: 20px 10px;
+    height: 100%;
+}
+.image:hover{
+    color:white ;
+    background-image: url(../images/bitu.png);
+    background-position: center;
+    background-repeat: no-repeat;
+}
+.image2:hover{
+    color:white ;
+    background-image: url(../images/bitu.png);
+    background-position: center;
+    background-repeat: no-repeat;
+}
+.image:hover i{
+    color: white;
+}
+.fas {
+    font-weight: 900;
+    font-size: 60px;
+    color: orange;
+    margin-bottom: 20px;
+}
+.far{
+    color: orange;
+}
+.second{
+    display: inline-block;
+}
+.image h2{
+    font-size: 20px;
+}
+
+.image p{
+    font-size: 15px;
+}
+
+
+.feature{
+   padding-top: 50px;
+   padding-bottom:25px;
+   
+}
+.feature h1{
+  color: #6e6e6e;
+  font-size: 27px;
+  font-weight: bold;
+  
+}
+img{
+    width: 60px;
+
+}
+
+.feature span{
+    height: 2px;
+    width: 65px;
+    background-color: #ed5428;
+    transition: .4s all ease-in-out;
+    display:inline-block;
+
+    
+}
+.feature:hover span{
+    width: 10px;
+}
+.feature h3{
+    font-size: 20px;
+    color: #2b2b2b;
+    font-weight: bold;
+}
+    
+
+.feature p{
+  font-size: 15px;
+  margin-top: 22px;
+  margin-bottom: 22px;
+  color: #6e6e6e;
+}
+.view{
+margin-top: 50px;
+
+}
+.view a{
+    border-radius: 35px;
+    color: black;
+    background: transparent;
+    border: 1px solid black;
+}
+.view:hover a{
+background: #ff9b1a;
+border-color: #ff9b1a;
+color: white;
+}
+
+
+/*buyer part css*/
+.template{
+    background-image: url(../images/bit1.png);
+   
+   background-position: center;
+   background-repeat: no-repeat;
+
+}
+.template h1{
+  color:#fff;
+  font-size: 32px;
+  
+}
+
+
+.template span{
+    height: 2px;
+    width: 65px;
+    background: #ed5428;
+    display:inline-block;
+
+    }
+    .template:hover span{
+        width: 10px;
+        transition: all .4s ease-in-out;
+
+    }
+.template h3{
+    color:#0f5f5c; 
+            }
+.template p{
+  color: #83a7a5;
+  font-size: 15px;
+  margin-top: 22px;
+  margin-bottom: 68px;
+  
+}
+.template h5{
+    display: inline-block;
+    margin-left: 10px;
+    color:#0f5f5c; 
+    }
+
+.template p{
+  color: #83a7a5;
+  font-size: 15px;
+  margin-left: 40px;
+}
+.itm{
+ margin-left: 60px;
+}
+
+.type ul li{
+    display: inline-block;
+    font-size: 15px;
+     color:#fff;
+     padding-right: 30px;
+}
+.type ul li i{
+font-size: 15px;
+color: #83a7a5;
+
+}
+.text{
+    margin: left;
+}
+
+
+.respons img{
+    min-height:40vh;
+    width:50%;
+    transform: translateY(40%);
+    padding-bottom: 0%;
+    margin: auto;
+}
+span{
+    margin-bottom: 10px;
+}
+/*counter part css*/
+.trans{
+    background-color: orange;
+    height:20vh;
+    
+}
+span {
+    margin-bottom: 10px;
+    font-size: 35px;
+    font-weight: bold;
+}
+
+/*bitcoin part css*/
+.bit{
+    overflow: hidden;
+    justify-content: center;
+}
+.abcd img {
+    width: 60%;
+    /* height: 60%; */
+    position: center;
+    margin-top: 20%;
+    margin-left: 25%;
+    background-repeat: no-repeat;
+    overflow: hidden;
+}
+
+.ico{
+    
+    background: no-repeat;
+}
+.ico img {
+    margin-left: 100%;
+    margin-top: 20%;
+    width: 18%
+    
+}
+.ico1 {
+    margin-top: 1%;
+    margin-bottom: 1rem;
+    margin-left: 100%;
+    display: inline-block;
+}
+
+.icoa img{
+  margin-left:75%;
+ margin-top: 25%; 
+ width: 21%;
+}
+.icoa1{
+  margin-left:75%;
+  margin-bottom: 1rem;
+  margin-top: 1%; 
+}
+.icob img{
+    margin-left:100%;
+    margin-top:30% ;
+    width: 21%;
+     
+}
+.icob1{
+  margin-left:100%;
+  margin-bottom: 1rem;
+  margin-top: 1%; 
+}
+.icoc img{
+
+    margin-top: 20%;
+    margin-right: 100%;
+    width: 18%;
+}
+.icoc1{
+  margin-right:100%;
+  margin-bottom: 1rem;
+  margin-top: 1%; 
+}
+.icod img {
+    margin-top: 25%;
+    margin-left: 25%;
+    width: 21%;
+}
+.icod1{
+  margin-left:25%;
+  margin-bottom: 1rem;
+  margin-top: 1%; 
+}
+.icoe img {
+    margin-right: 100%;
+    margin-top: 30%;
+    width: 18%;
+}
+.icoe1{
+  margin-right:100%;
+  margin-bottom: 1rem;
+  margin-top: 1%; 
+}
+
+.temp{
+    margin: 70px 0px;
+}
+
+
+/*our team part css*/
+
+.man img{
+    height: 80%;
+    width: 80%;
+    padding-bottom: 20px;
+}
+.man h5{
+color: orange;
+font-size: 15px;
+}
+
+/*contact part css*/
+
+
+.Contact{
+    background-image: url(../images/bit4.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+.Contact span{
+    display: inline-block;
+    height: 4px;
+    width: 0px;
+    background-color: #ed5428;
+    transition: .4s all ease-in-out;
+}
+.Contact:hover span{
+    width: 60px;
+}
+.Contact .heading h1 {
+    color: #fff;
+    padding-bottom: 30px;
+    padding-top: 30px;
+    font-size: 40px;
+}
+.form{
+    padding: 0px;
+    background:transparent;
+    margin-bottom: 10px;
+    display: inline-block;
+}
+.form-control {
+    display: block;
+    width: 100%;
+    height: calc(1.5em + .75rem + 2px);
+    padding: .375rem .75rem;
+    font-size: 1rem;
+    font-weight: 400;
+    line-height: 1.5;
+    background-color: transparent;
+    background-clip: padding-box;
+    border: 1px solid #f9f9f9;
+    border-radius: .25rem;
+    transition: border-color .15s ease-in-out,box-shadow .15s ease-in-out;
+    color: black;
+}
+.form-control:hover{
+    background-color: #d9d9d9;
+    border: 1px solid #d9d9d9;
+    box-shadow: 0 0 10px #d9d9d9, 0 0 20px #d9d9d9, 0 0 60px #d9d9d9;
+}
+.nan{
+    margin-bottom: 30px;
+}
+.msg{
+    color: white;
+}
+.sen{
+    margin-top: 30px;
+    background: #ff9b1a;
+    border-radius: 35px;
+    text-align: center;
+    margin-bottom: 50px;
+    
+}
+
+
+
+/*our blogs part css*/
+
+
+
+.maincontainer{
+    position: relative;
+    width: 100%;
+    height: 320px;
+}
+.thecard{
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    transform-style: preserve-3d;
+    transition: all 0.5s ease-in-out;
+     background-image: url(../images/itm1.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.thecard-1{
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    transform-style: preserve-3d;
+    transition: all 0.5s ease-in-out;
+     background-image: url(../images/itm2.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.thecard:hover{
+    transform: rotateY(180deg);
+}
+.thecard-2{
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    transform-style: preserve-3d;
+    transition: all 0.5s ease-in-out;
+     background-image: url(../images/itm3.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.thecard-1:hover{
+    transform: rotateY(180deg);
+}
+.thecard-2:hover{
+    transform: rotateY(180deg);
+}
+.thefront{
+    position: absolute;
+    backface-visibility: hidden;
+    
+    
+    
+}
+.theback{
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    backface-visibility: hidden;
+    color:white;
+    background: #642EFE;
+    transform: rotateY(180deg);
+}
+.see{
+    margin-top: 83%;
+    margin-right: 70%;
+}
+.sec {
+    border: 1px solid #c5c5c5;
+    height: 40%;
+    width: 100%;
+    margin: auto;
+}
+.sec h3{
+    margin-top: 35px;
+}
+.secon{
+    margin-top: 20%;
+}
+
+
+
+/*feedback part css*/
+
+.feat{
+    margin-top: 100px;
+     
+}
+.bx-wrapper img {
+    max-width: 100%;
+    margin: auto;
+}
+.non{
+    
+}
+.slider-area.bx-wrapper {
+     border: 5px solid white;
+
+    /* -webkit-box-shadow: 0 0 5px #ccc; */
+    /* box-shadow: 0 0 5px #ccc; */
+    /* border: 5px solid #fff; */
+
+}
+.head h1{
+    margin-top: 50px;
+    margin-bottom: 20px;
+}
+.head p{
+    width: 50%;
+    margin: auto;
+    margin-bottom: 30px;
+}
+.head span{
+    margin-bottom:80px;
+}
+li input{
+    padding: 10px 16px;
+    border-radius: 35px;
+    margin-top: 20px;
+}
+li input:hover{
+    background-color: orange;
+    color:white;
+    border: orange;
+}
+
+
+
+/*news letter*/
+.examples{
+    background: #101010;
+    padding: 100px 0;
+    
+}
+
+.class1 h3{
+    font-size: 15px;
+    color: #fff;
+    font-weight: bold;
+}
+.class1 ul li{
+    font-size: 13px;
+    color: #bdd0cf;
+    list-style: none;
+
+}
+
+.class1 span{
+    height: 2px;
+    width: 50px;
+    background-color: #ed5428;
+    transition: .4s all ease-in-out;
+    display:inline-block; 
+}
+.class1:hover span{
+    width:20px;
+}
+.icons{
+    padding-top: 5px;
+    padding-bottom: 10px;
+}
+.icons a:hover .fab{
+transform: scale(1.2);
+opacity: 1;
+color: white;
+ 
+}
+.icons a .fab{
+transform: rotateY(0deg) scale(0.8);
+opacity:0.2;
+box-shadow:0 2 5px rgba(0,0,0,.2); 
+transition: 0.5s;
+}
+
+.icons1{
+    border:1px solid blue;
+    border-radius: 50%;
+    padding: 5px 12px;
+}
+/*transform: scale(1.2);
+opacity: 1;*/
+.icons1:hover{
+    color: white;
+    background: #ff0057;
+    border-color: #e64a19;
+   box-shadow: 0 0 10px #ff0057, 0 0 40px #e64a19, 0 0 80px #ff0057;,
+     
+}
+.icons2:hover{
+    color: white;
+    background: #89ff00;
+     border-color:#89ff00;
+    box-shadow: 0 0 10px #89ff00, 0 0 40px #00bcd4, 0 0 80px #89ff00;
+    
+    
+}
+
+.icons3:hover{
+    color: white;
+    background: orange;
+    border-color: orange;
+     box-shadow: 0 0 10px orange, 0 0 40px orange, 0 0 80px orange;,
+    
+}
+
+.icons4:hover{
+     color: white;
+    background: #ff0000;
+    border-color: #ff0000;
+     box-shadow: 0 0 10px #ff0000, 0 0 40px #ffc107, 0 0 80px #ff0000;,
+    
+}
+
+
+.icons2{
+    border:1px solid blue;
+    border-radius: 50%;
+    padding: 5px 7px;
+}
+.icons3{
+    border:1px solid blue;
+    border-radius: 50%;
+    padding: 5px 7px;
+}
+.icons4{
+    border:1px solid blue;
+    border-radius: 50%;
+    padding: 5px 9px;
+}
+
+h2 img{
+    height: 50px;
+    width: 100px;
+
+}
+
+
+/*last part css*/
+
+.footer{
+    background: black;
+}
+.conclution p{
+    font-size: 14px;
+    margin: left;
+    color: #50588b;
+}
+.connection{
+    margin-right: auto;
+    padding-top: 40px;
+    
+}
+
+.connection ul li{
+    display: inline-block;
+    text-decoration: none;
+    padding-left: 15px;
+    font-size: 12px;
+    color: #50588b;
+
+}
+
+.connection ul li:hover{
+    background:#fff; 
+}
+
+
